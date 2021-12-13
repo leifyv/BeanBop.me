@@ -1,6 +1,12 @@
 body {
     background-color: black;
   }
+title {
+    color: darkslategray
+}
+head {
+    color:darkslategray
+}
 h1 {
     color: darkslateblue;
   }
