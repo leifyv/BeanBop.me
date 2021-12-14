@@ -1,18 +1,18 @@
 body {
-    background-color: grey;
+    background-color: lightgrey;
   }
 title {
-    color: lightslategray;
+    color: darkslategrey;
 }
 header {
-    color:lightslategray;
+    color:darkslategrey;
 }
 h1 {
-    color: lightslategray;
+    color: darkslategrey;
   }
 h4 {
-    color: lightslategray;
+    color: darkslategrey;
 }
 p {
-    color: lightslategray;
+    color: darkslategrey;
   }
